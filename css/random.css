@@ -48,7 +48,7 @@ a:hover {
 #menu-outer,
 #bottom-outer,
 #random-index {
-  opacity: 0.85;
+  opacity: 0.6;
 }
 .random-center {
   position: absolute;
@@ -75,7 +75,7 @@ a:hover {
   padding-bottom: 20px;
   text-align: center;
   border-radius: 10px;
-  background-color: #ecf0f1;
+  background-color: #ead1dc;
 }
 #random-index a {
   padding: 5px;
